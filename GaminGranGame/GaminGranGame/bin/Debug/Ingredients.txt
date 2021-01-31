@@ -1,0 +1,2 @@
+"jello", "hotwater", "bread", "lettuce", "tomato", "cheese", "water", "ham", "mayo", "meat", "wine", "carrot", "sauce",
+"pasta", "spinach", "garlic", "chocochips", "flour", "eggs", "sugar", "butter"
